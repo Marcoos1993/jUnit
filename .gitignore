@@ -1,3 +1,11 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar a pasta de builds
+/build/
+
+# Ignorar arquivos de configuração locais
+*.env
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
